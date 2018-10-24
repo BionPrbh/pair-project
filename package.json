@@ -1,0 +1,20 @@
+{
+  "name": "pair-project",
+  "version": "1.0.0",
+  "description": "pair project Muhammad Fariz Hamzah Budiyanto and Iqbal Maulana Ardi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BionPrbh/pair-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BionPrbh/pair-project/issues"
+  },
+  "homepage": "https://github.com/BionPrbh/pair-project#readme"
+}
